@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735006643387",
+    "project_id": "flush-chat-app",
+    "storage_bucket": "flush-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735006643387:android:026d8a6e0df3aff87b459e",
+        "android_client_info": {
+          "package_name": "com.example.flushChatApp1.chat_app_flutter_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735006643387-bb0m9tiv8l3i0knspsnkridbpevlcmgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_pm-GuNiV1E8qajRDqilCSeOyiNiOIJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735006643387-bb0m9tiv8l3i0knspsnkridbpevlcmgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
